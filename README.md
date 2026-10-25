@@ -18,7 +18,7 @@ The project includes positive and negative test scenarios, automated assertions,
 
 ## Test Scenarios
 
-A total of **9 automated test cases** were implemented across four functional modules.
+A total of **8 automated test cases** were implemented across four functional modules.
 
 ### 1. Login Testing
 
@@ -41,7 +41,6 @@ A total of **9 automated test cases** were implemented across four functional mo
 | Test Case ID | Test Scenario |
 |---|---|
 | TC-CHECKOUT-01 | Checkout with Valid Information |
-| TC-CHECKOUT-02 | Checkout with Missing Information |
 
 ### 4. Logout Testing
 
@@ -143,8 +142,8 @@ The automated test execution was completed successfully using Chromium.
 
 | Metric | Result |
 |---|---|
-| Total Test Cases | 9 |
-| Passed | 9 |
+| Total Test Cases | 8 |
+| Passed | 8 |
 | Failed | 0 |
 | Skipped | 0 |
 | Pass Rate | 100% |
@@ -159,7 +158,7 @@ The following screenshot shows the Playwright test execution results.
 
 ## Conclusion
 
-All 9 automated test cases passed successfully, confirming that the tested login, shopping cart, checkout, and logout functionalities behaved as expected.
+All 8 automated test cases passed successfully, confirming that the tested login, shopping cart, checkout, and logout functionalities behaved as expected.
 
 This project demonstrates fundamental QA automation skills, including:
 
